@@ -1,0 +1,3 @@
+#AMRL maps
+
+cmake .
