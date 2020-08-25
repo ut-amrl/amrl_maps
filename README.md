@@ -1,4 +1,4 @@
-# AMRL Messages
+# AMRL Maps
 
 Map files used by UT-AMRL projects.
 
