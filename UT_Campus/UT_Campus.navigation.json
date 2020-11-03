@@ -855,6 +855,38 @@
             "max_speed": 2.0,
             "s0_id": 41,
             "s1_id": 53
+        },
+        {
+            "has_door": false,
+            "has_stairs": false,
+            "max_clearance": 1.0,
+            "max_speed": 2.0,
+            "s0_id": 31,
+            "s1_id": 55
+        },
+        {
+            "has_door": false,
+            "has_stairs": true,
+            "max_clearance": 1.0,
+            "max_speed": 0.5,
+            "s0_id": 55,
+            "s1_id": 54
+        },
+        {
+            "has_door": false,
+            "has_stairs": false,
+            "max_clearance": 1.0,
+            "max_speed": 2.0,
+            "s0_id": 56,
+            "s1_id": 51
+        },
+        {
+            "has_door": false,
+            "has_stairs": false,
+            "max_clearance": 1.0,
+            "max_speed": 2.0,
+            "s0_id": 56,
+            "s1_id": 54
         }
     ],
     "nodes": [
@@ -1234,6 +1266,27 @@
             "loc": {
                 "x": 66.09349822998047,
                 "y": 57.192901611328125
+            }
+        },
+        {
+            "id": 54,
+            "loc": {
+                "x": 55.35810089111328,
+                "y": 16.610139846801758
+            }
+        },
+        {
+            "id": 55,
+            "loc": {
+                "x": 46.233123779296875,
+                "y": 18.013980865478516
+            }
+        },
+        {
+            "id": 56,
+            "loc": {
+                "x": 70.6443862915039,
+                "y": 17.00009536743164
             }
         }
     ]
