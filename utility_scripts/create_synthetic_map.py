@@ -32,21 +32,19 @@ lines = []
 
 ## --- Map Construction --- ##
 # add hallway
-add_line(-5, 7.5, 100, 7.5)
-add_line(-5, 7.5, -5, -1.5)
-add_line(-5, -1.5, 100, -1.5)
-add_line(100, 7.5, 100, -1.5)
+add_line(-5, 2.5, 30, 2.5)
+add_line(-5, 2.5, -5, -2.5)
+add_line(-5, -2.5, 30, -2.5)
+add_line(30, 2.5, 30, -2.5)
 
 # add obstacles
-add_obstacle(10, -1, 1, 1)
-add_obstacle(20, 6, 1, 2)
-add_obstacle(30, 0, 1, 2)
-add_obstacle(40, 5, 2, 1)
-add_obstacle(50, 0.5, 2, 4)
-add_obstacle(65, 6, 2, 2)
-add_obstacle(75, 3, 2, 2)
-add_obstacle(83, 5, 2, 2)
-add_obstacle(95, 0, 2, 2)
+add_obstacle(5, -0.75, 0.5, 1)
+add_obstacle(7.5, 2, 0.5, 1)
+add_obstacle(12.5, 0, 1, 1)
+add_obstacle(15, 2, 0.5, 1)
+add_obstacle(15, -2, 0.5, 1)
+add_obstacle(20, 1.25, 3, 2.5)
+add_obstacle(25, -1.25, 3, 2.5)
 
 map_file.writelines([', '.join([str(c) for c in line]) + '\n' for line in lines])
 map_file.close()
