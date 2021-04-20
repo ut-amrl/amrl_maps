@@ -1,7 +1,9 @@
 {
     "edges": [
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -9,7 +11,9 @@
             "s1_id": 1
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -17,7 +21,9 @@
             "s1_id": 0
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -25,7 +31,9 @@
             "s1_id": 2
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -33,7 +41,9 @@
             "s1_id": 1
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -41,7 +51,9 @@
             "s1_id": 3
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -49,7 +61,9 @@
             "s1_id": 2
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -57,7 +71,9 @@
             "s1_id": 10
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -65,7 +81,9 @@
             "s1_id": 5
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -73,7 +91,9 @@
             "s1_id": 10
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -81,7 +101,9 @@
             "s1_id": 4
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -89,7 +111,9 @@
             "s1_id": 37
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -97,7 +121,9 @@
             "s1_id": 7
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -105,7 +131,9 @@
             "s1_id": 37
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -113,7 +141,9 @@
             "s1_id": 6
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -121,7 +151,9 @@
             "s1_id": 8
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -129,7 +161,9 @@
             "s1_id": 24
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -137,7 +171,9 @@
             "s1_id": 7
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -145,7 +181,9 @@
             "s1_id": 9
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -153,7 +191,9 @@
             "s1_id": 8
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -161,7 +201,9 @@
             "s1_id": 3
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -169,7 +211,9 @@
             "s1_id": 4
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -177,7 +221,9 @@
             "s1_id": 11
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -185,7 +231,9 @@
             "s1_id": 10
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -193,7 +241,9 @@
             "s1_id": 22
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -201,7 +251,9 @@
             "s1_id": 13
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -209,7 +261,9 @@
             "s1_id": 21
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -217,7 +271,9 @@
             "s1_id": 12
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -225,7 +281,9 @@
             "s1_id": 17
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -233,7 +291,9 @@
             "s1_id": 15
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -241,7 +301,9 @@
             "s1_id": 20
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -249,7 +311,9 @@
             "s1_id": 14
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -257,7 +321,9 @@
             "s1_id": 16
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -265,7 +331,9 @@
             "s1_id": 15
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -273,7 +341,9 @@
             "s1_id": 13
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -281,7 +351,9 @@
             "s1_id": 18
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -289,7 +361,9 @@
             "s1_id": 17
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -297,7 +371,9 @@
             "s1_id": 23
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -305,7 +381,9 @@
             "s1_id": 20
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -313,7 +391,9 @@
             "s1_id": 23
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -321,7 +401,9 @@
             "s1_id": 14
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -329,7 +411,9 @@
             "s1_id": 19
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -337,7 +421,9 @@
             "s1_id": 12
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -345,7 +431,9 @@
             "s1_id": 22
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -353,7 +441,9 @@
             "s1_id": 11
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -361,7 +451,9 @@
             "s1_id": 21
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -369,7 +461,9 @@
             "s1_id": 18
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -377,7 +471,9 @@
             "s1_id": 19
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -385,7 +481,9 @@
             "s1_id": 7
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -393,7 +491,9 @@
             "s1_id": 25
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -401,7 +501,9 @@
             "s1_id": 24
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -409,7 +511,9 @@
             "s1_id": 26
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -417,7 +521,9 @@
             "s1_id": 25
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -425,7 +531,9 @@
             "s1_id": 27
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -433,7 +541,9 @@
             "s1_id": 26
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -441,7 +551,9 @@
             "s1_id": 28
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -449,7 +561,9 @@
             "s1_id": 27
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -457,7 +571,9 @@
             "s1_id": 29
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -465,7 +581,9 @@
             "s1_id": 28
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -473,7 +591,9 @@
             "s1_id": 30
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -481,7 +601,9 @@
             "s1_id": 29
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -489,7 +611,9 @@
             "s1_id": 31
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -497,7 +621,9 @@
             "s1_id": 30
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -505,7 +631,9 @@
             "s1_id": 32
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -513,7 +641,9 @@
             "s1_id": 31
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -521,7 +651,9 @@
             "s1_id": 34
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -529,7 +661,9 @@
             "s1_id": 34
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -537,7 +671,9 @@
             "s1_id": 35
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -545,7 +681,9 @@
             "s1_id": 32
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -553,7 +691,9 @@
             "s1_id": 33
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -561,7 +701,9 @@
             "s1_id": 33
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -569,7 +711,9 @@
             "s1_id": 39
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -577,7 +721,9 @@
             "s1_id": 39
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -585,7 +731,9 @@
             "s1_id": 40
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -593,7 +741,9 @@
             "s1_id": 5
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -601,7 +751,9 @@
             "s1_id": 6
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -609,7 +761,9 @@
             "s1_id": 38
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -617,7 +771,9 @@
             "s1_id": 37
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -625,7 +781,9 @@
             "s1_id": 42
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -633,7 +791,9 @@
             "s1_id": 35
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -641,7 +801,9 @@
             "s1_id": 36
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -649,7 +811,9 @@
             "s1_id": 36
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -657,7 +821,9 @@
             "s1_id": 41
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -665,7 +831,9 @@
             "s1_id": 40
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -673,7 +841,9 @@
             "s1_id": 38
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -681,7 +851,9 @@
             "s1_id": 47
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -689,7 +861,9 @@
             "s1_id": 44
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -697,7 +871,9 @@
             "s1_id": 48
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -705,7 +881,9 @@
             "s1_id": 43
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -713,7 +891,9 @@
             "s1_id": 45
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -721,7 +901,9 @@
             "s1_id": 51
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -729,7 +911,9 @@
             "s1_id": 44
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -737,7 +921,9 @@
             "s1_id": 46
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -745,7 +931,9 @@
             "s1_id": 47
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -753,7 +941,9 @@
             "s1_id": 45
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -761,7 +951,9 @@
             "s1_id": 49
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -769,7 +961,9 @@
             "s1_id": 42
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -777,7 +971,9 @@
             "s1_id": 45
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -785,7 +981,9 @@
             "s1_id": 49
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -793,7 +991,9 @@
             "s1_id": 43
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -801,7 +1001,9 @@
             "s1_id": 46
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -809,7 +1011,9 @@
             "s1_id": 48
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -817,7 +1021,9 @@
             "s1_id": 44
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -825,7 +1031,9 @@
             "s1_id": 52
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -833,7 +1041,9 @@
             "s1_id": 53
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -841,7 +1051,9 @@
             "s1_id": 51
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
             "max_speed": 50.0,
@@ -849,7 +1061,9 @@
             "s1_id": 52
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 1.0,
             "max_speed": 2.0,
@@ -857,7 +1071,9 @@
             "s1_id": 53
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 1.0,
             "max_speed": 2.0,
@@ -865,7 +1081,9 @@
             "s1_id": 55
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": true,
             "max_clearance": 1.0,
             "max_speed": 0.5,
@@ -873,7 +1091,9 @@
             "s1_id": 54
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 1.0,
             "max_speed": 2.0,
@@ -881,12 +1101,54 @@
             "s1_id": 51
         },
         {
+            "has_automated_door": false,
             "has_door": false,
+            "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 1.0,
             "max_speed": 2.0,
             "s0_id": 56,
             "s1_id": 54
+        },
+        {
+            "has_automated_door": false,
+            "has_door": false,
+            "has_elevator": false,
+            "has_stairs": false,
+            "max_clearance": 1.0,
+            "max_speed": 2.0,
+            "s0_id": 57,
+            "s1_id": 58
+        },
+        {
+            "has_automated_door": false,
+            "has_door": false,
+            "has_elevator": false,
+            "has_stairs": false,
+            "max_clearance": 1.0,
+            "max_speed": 2.0,
+            "s0_id": 58,
+            "s1_id": 27
+        },
+        {
+            "has_automated_door": false,
+            "has_door": true,
+            "has_elevator": false,
+            "has_stairs": false,
+            "max_clearance": 1.0,
+            "max_speed": 2.0,
+            "s0_id": 59,
+            "s1_id": 0
+        },
+        {
+            "has_automated_door": false,
+            "has_door": true,
+            "has_elevator": false,
+            "has_stairs": false,
+            "max_clearance": 1.0,
+            "max_speed": 2.0,
+            "s0_id": 60,
+            "s1_id": 57
         }
     ],
     "nodes": [
@@ -1287,6 +1549,34 @@
             "loc": {
                 "x": 70.6443862915039,
                 "y": 17.00009536743164
+            }
+        },
+        {
+            "id": 57,
+            "loc": {
+                "x": -4.5137834548950195,
+                "y": 0.05933962017297745
+            }
+        },
+        {
+            "id": 58,
+            "loc": {
+                "x": 10.136953353881836,
+                "y": 0.26282209157943726
+            }
+        },
+        {
+            "id": 59,
+            "loc": {
+                "x": 131.13487243652344,
+                "y": -241.6222381591797
+            }
+        },
+        {
+            "id": 60,
+            "loc": {
+                "x": -4.387474536895752,
+                "y": -2.459829330444336
             }
         }
     ]
