@@ -14,3 +14,7 @@ Map files used by UT-AMRL projects.
     export ROS_PACKAGE_PATH=`pwd`:$ROS_PACKAGE_PATH
     ```
     (Optional, reccomended) Add this to your `.bashrc`
+
+## Updating and Creating Maps
+
+Maps are created with the [vector_display](https://github.com/ut-amrl/vector_display) package.
