@@ -2,13 +2,13 @@
 import sys
 import struct
 
-out_file = file(sys.argv[1] + ".scaled","wb")
-in_file = file(sys.argv[1],"r")
+out_file = open(sys.argv[1] + ".scaled","w")
+in_file = open(sys.argv[1],"r")
 
 factor = float(sys.argv[2])
 
 while 1:
-    line = in_file.readline()       
+    line = in_file.readline()
     if not line:
        break
     f1,f2,f3,f4 = line.split(',')
