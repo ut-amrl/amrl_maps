@@ -6,7 +6,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 0,
             "s1_id": 1
         },
@@ -16,7 +16,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 1,
             "s1_id": 2
         },
@@ -26,7 +26,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 2,
             "s1_id": 3
         },
@@ -36,7 +36,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 3,
             "s1_id": 4
         },
@@ -46,7 +46,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 4,
             "s1_id": 5
         },
@@ -56,7 +56,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 5,
             "s1_id": 6
         },
@@ -66,7 +66,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 6,
             "s1_id": 7
         },
@@ -76,7 +76,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 7,
             "s1_id": 8
         },
@@ -86,7 +86,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 8,
             "s1_id": 9
         },
@@ -96,7 +96,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 9,
             "s1_id": 10
         },
@@ -106,7 +106,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 10,
             "s1_id": 11
         },
@@ -116,7 +116,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 11,
             "s1_id": 12
         },
@@ -126,7 +126,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 12,
             "s1_id": 13
         },
@@ -136,7 +136,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 13,
             "s1_id": 14
         },
@@ -146,7 +146,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 14,
             "s1_id": 15
         },
@@ -156,7 +156,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 15,
             "s1_id": 16
         },
@@ -166,7 +166,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 16,
             "s1_id": 17
         },
@@ -176,7 +176,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 17,
             "s1_id": 18
         },
@@ -186,7 +186,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 18,
             "s1_id": 19
         },
@@ -196,7 +196,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 19,
             "s1_id": 20
         },
@@ -206,7 +206,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 20,
             "s1_id": 21
         },
@@ -216,7 +216,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 21,
             "s1_id": 22
         },
@@ -226,7 +226,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 22,
             "s1_id": 23
         },
@@ -236,7 +236,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 23,
             "s1_id": 24
         },
@@ -246,7 +246,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 24,
             "s1_id": 25
         },
@@ -256,7 +256,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 25,
             "s1_id": 26
         },
@@ -266,7 +266,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 26,
             "s1_id": 27
         },
@@ -276,7 +276,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 27,
             "s1_id": 28
         },
@@ -286,7 +286,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 28,
             "s1_id": 29
         },
@@ -296,7 +296,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 29,
             "s1_id": 30
         },
@@ -306,7 +306,7 @@
             "has_elevator": false,
             "has_stairs": false,
             "max_clearance": 10.0,
-            "max_speed": 50.0,
+            "max_speed": 10.0,
             "s0_id": 30,
             "s1_id": 0
         }
@@ -336,7 +336,7 @@
         {
             "id": 3,
             "loc": {
-                "x": 22,
+                "x": 22.0,
                 "y": 3.7
             }
         },
@@ -371,7 +371,7 @@
         {
             "id": 8,
             "loc": {
-                "x": 20,
+                "x": 20.0,
                 "y": 4.6
             }
         },
@@ -406,7 +406,7 @@
         {
             "id": 13,
             "loc": {
-                "x": 11,
+                "x": 11.0,
                 "y": 1.9
             }
         },
@@ -469,7 +469,7 @@
         {
             "id": 22,
             "loc": {
-                "x": 15,
+                "x": 15.0,
                 "y": 5.3
             }
         },
@@ -484,7 +484,7 @@
             "id": 24,
             "loc": {
                 "x": 0.75,
-                "y": 6
+                "y": 6.0
             }
         },
         {
