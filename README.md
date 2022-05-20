@@ -24,5 +24,5 @@ Racing lines are represented as text files noted with the `.racingline` extensio
 Each line in the text file represents a point on the racing line and some information about the line segment immediately following that point.
 The format is as follows
 ```
-<node_x> <node_y> <segment_max_speed> <segment_angular_velocity_offset> <segment_acceleration_offset> <segment_deceleration_offset>
+<node_x> <node_y> <segment_max_speed> <segment_angular_velocity_factor> <segment_acceleration_factor> <segment_deceleration_factor>
 ```
