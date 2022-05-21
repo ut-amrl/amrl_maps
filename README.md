@@ -18,3 +18,11 @@ Map files used by UT-AMRL projects.
 ## Updating and Creating Maps
 
 Maps are created with the [vector_display](https://github.com/ut-amrl/vector_display) package.
+
+### Creating Racing Lines
+Racing lines are represented as text files noted with the `.racingline` extension.
+Each line in the text file represents a point on the racing line and some information about the line segment immediately following that point.
+The format is as follows
+```
+<node_x> <node_y> <segment_max_speed> <segment_angular_velocity_factor> <segment_acceleration_factor> <segment_deceleration_factor>
+```

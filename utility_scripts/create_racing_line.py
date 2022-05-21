@@ -1,4 +1,8 @@
 """
+
+THIS SCRIPT IS NO LONGER VALID! GRAPH NAVIGATION NOW USES THE DESCRIPTOR FILE DIRECTLY,
+AND THE FORMAT OF THE DESCRIPTOR FILE HAS CHANGED. SEE THE README FOR UPDATED INSTRUCTIONS.
+
 This script creates a .navigation.json file for a map given a racing line description.
 The description of the racing line is a text file where each line is a point on the racing
 line and contains information about max speed on the upcoming segment. 
