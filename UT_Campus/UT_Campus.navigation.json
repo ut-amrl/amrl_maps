@@ -1082,6 +1082,16 @@
         },
         {
             "has_automated_door": false,
+            "has_door": false,
+            "has_elevator": false,
+            "has_stairs": false,
+            "max_clearance": 1.0,
+            "max_speed": 2.0,
+            "s0_id": 66,
+            "s1_id": 59
+        },
+        {
+            "has_automated_door": false,
             "has_door": true,
             "has_elevator": false,
             "has_stairs": false,
