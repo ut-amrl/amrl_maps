@@ -1,0 +1,31 @@
+name: vectormap-txt-to-json
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - "**.vectormap.txt"
+      
+jobs:
+  convert:
+    name: convert
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+     - name: Checkout repo (master)
+       uses: actions/checkout@v3.5.2
+     
+     - name: Setup Python
+       uses: actions/setup-python@v4.6.0
+       with:
+        python-version: '3.8'
+       
+     - name: Run conversion script
+       run: python utility_scripts/automate_txt_to_json.py
+     
+     - name: Commit the changed files
+       uses: stefanzweifel/git-auto-commit-action@v4.16.0
+       with:
+        commit_message: github-actions[bot]:Automated generation of vectormap.json
