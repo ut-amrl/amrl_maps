@@ -6,6 +6,7 @@ on:
       - master
     paths:
       - "**.vectormap.txt"
+  workflow_dispatch:
       
 jobs:
   convert:
@@ -25,7 +26,11 @@ jobs:
      - name: Run conversion script
        run: python utility_scripts/automate_txt_to_json.py
      
-     - name: Commit the changed files
-       uses: stefanzweifel/git-auto-commit-action@v4.16.0
+     - name: Create a PR for changed files
+       uses: peter-evans/create-pull-request@v5.0.1
        with:
         commit_message: github-actions[bot]:Automated generation of vectormap.json
+        branch: bot-txt-to-json
+        base: master
+        title: automated conversion txt to json
+        reviewers: joydeep-b
