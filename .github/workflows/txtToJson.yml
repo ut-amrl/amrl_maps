@@ -3,7 +3,7 @@ name: vectormap-txt-to-json
 on:
   push:
     branches:
-      - '**'
+      - master
     paths:
       - "**.vectormap.txt"
   workflow_dispatch:
@@ -34,4 +34,4 @@ jobs:
         branch: bot-txt-to-json
         base: master
         title: automated conversion txt to json
-        reviewers: joydeep-b
+        reviewers: joydeep-b, sadanand1120
