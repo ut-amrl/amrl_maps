@@ -3,7 +3,7 @@ name: vectormap-txt-to-json
 on:
   push:
     branches:
-      - master
+      - '**'
     paths:
       - "**.vectormap.txt"
   workflow_dispatch:
