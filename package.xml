@@ -1,0 +1,15 @@
+<package format="3">
+  <name>amrl_maps</name>
+  <version>0.0.1</version>
+  <description>A package containing static map files.</description>
+  
+  <!-- Because we're going to install something (even if it's just data files),
+       we must declare a build tool dependency. -->
+  <maintainer email="joydeepb@cs.utexas.edu">Joydeep Biswas</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <export>
+  </export>
+</package>

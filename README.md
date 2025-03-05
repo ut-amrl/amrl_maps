@@ -9,9 +9,25 @@ Map files used by UT-AMRL projects.
 ## Usage
 
 1. Clone this repository.
-1. Add it to your `ROS_PACKAGE_PATH` environment variable:
+
+### ROS1 Usage
+
+2. Add it to your `ROS_PACKAGE_PATH` environment variable:
     ```
     export ROS_PACKAGE_PATH=`pwd`:$ROS_PACKAGE_PATH
+    ```
+    (Optional, reccomended) Add this to your `.bashrc`
+
+### ROS2 Usage
+2. Build and install the package
+```
+make 
+make install
+```
+
+3. Add it to your `AMENT_PREFIX_PATH` environment variable: 
+    ```
+    export AMENT_PREFIX_PATH="$(pwd)/install:$AMENT_PREFIX_PATH"
     ```
     (Optional, reccomended) Add this to your `.bashrc`
 
