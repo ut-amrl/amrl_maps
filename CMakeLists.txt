@@ -6,24 +6,34 @@ if(POLICY CMP0057)
   cmake_policy(SET CMP0057 NEW)
 endif()
 
-if(DEFINED ENV{ROS_ROOT} AND EXISTS "$ENV{ROS_ROOT}/core/rosbuild/rosbuild.cmake")
+if(DEFINED ENV{ROS_VERSION} AND "$ENV{ROS_VERSION}" STREQUAL "1")
   message(STATUS "Detected ROS1 (rosbuild) environment.")
 
   include($ENV{ROS_ROOT}/core/rosbuild/rosbuild.cmake)
   rosbuild_init()
 else()
-  #===============================================================
-  # ROS2 (ament) Section
-  #===============================================================
-  message(STATUS "Detected ROS2 (ament) environment.")
+#===============================================================
+# ROS2 (ament) Section
+#===============================================================
+message(STATUS "Detected ROS2 (ament) environment.")
 
-  find_package(ament_cmake REQUIRED)
+find_package(ament_cmake REQUIRED)
 
-  # If you have a subdirectory with static data:
-  install(
-    DIRECTORY maps
-    DESTINATION share/${PROJECT_NAME}
-  )
+# If you have a subdirectory with static data:
+install(
+  DIRECTORY maps
+  DESTINATION share/${PROJECT_NAME}
+)
 
-  ament_package()
+install(FILES package.xml 
+  DESTINATION share/${PROJECT_NAME}
+)
+
+# Install the resource marker file to register the package with ament index
+install(
+  DIRECTORY resource
+  DESTINATION share/${PROJECT_NAME}
+)
+
+ament_package()
 endif()
