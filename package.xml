@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>amrl_maps</name>
+  <version>0.0.1</version>
+  <description>A package containing static map files used by UT-AMRL projects.</description>
+  
+  <maintainer email="joydeepb@cs.utexas.edu">Joydeep Biswas</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
