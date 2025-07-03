@@ -21,16 +21,6 @@ Map files used by UT-AMRL projects.
     ```
 4. Run `make`. This will automatically build and install (for ROS2) or just work directly (for ROS1). No need to run `catkin_*`, `rosbuild`, etc.
 
-## Cross-Compatibility
-
-This repository is designed to work seamlessly with both ROS1 and ROS2:
-
-- **ROS1**: Maps are accessed directly from their root-level directories (e.g., `GDC1/GDC1.vectormap.txt`)
-- **ROS2**: Maps are installed to the standard ROS2 share directory but maintain the same relative paths
-- **Backward Compatibility**: No changes needed for existing ROS1 code - all map paths remain the same
-
-The build system automatically detects your ROS version and configures accordingly.
-
 ## Updating and Creating Maps
 
 Maps are created with the [vector_display](https://github.com/ut-amrl/vector_display) package.
