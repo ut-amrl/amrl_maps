@@ -17,16 +17,18 @@ elseif(${ROS_VERSION} EQUAL "2")
 
   # Install all map directories from root level (maintaining ROS1 backward compatibility)
   # Get all directories that contain map files
-  file(GLOB MAP_DIRS "*")
+  file(GLOB MAP_DIRS RELATIVE ${CMAKE_CURRENT_SOURCE_DIR} "*")
   foreach(MAP_DIR ${MAP_DIRS})
     if(IS_DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/${MAP_DIR})
       # Skip hidden directories, utility_scripts, and build directories
-      get_filename_component(DIR_NAME ${MAP_DIR} NAME)
-      if(NOT DIR_NAME MATCHES "^\\." AND 
-         NOT DIR_NAME STREQUAL "utility_scripts" AND
-         NOT DIR_NAME STREQUAL "build" AND
-         NOT DIR_NAME STREQUAL "install" AND
-         NOT DIR_NAME STREQUAL "resource")
+      if(NOT MAP_DIR MATCHES "^\\." AND 
+         NOT MAP_DIR STREQUAL "utility_scripts" AND
+         NOT MAP_DIR STREQUAL "build" AND
+         NOT MAP_DIR STREQUAL "install" AND
+         NOT MAP_DIR STREQUAL "resource" AND
+         NOT MAP_DIR STREQUAL ".git" AND
+         NOT MAP_DIR STREQUAL ".github")
+        message(STATUS "Installing map directory: ${MAP_DIR}")
         install(
           DIRECTORY ${MAP_DIR}
           DESTINATION share/${PROJECT_NAME}
